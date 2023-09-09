@@ -1,4 +1,4 @@
-# No Gang Colors: Guide
+# No Gang Colors: About
 
 This repository houses an archival website presenting music compositions by No Gang Colors. 
 It is code and data organized to display No Gang Colors's discographic works and mixtape series. 
